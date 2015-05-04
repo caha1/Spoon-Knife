@@ -10,3 +10,7 @@ For some more information on how to fork a repository, [check out our guide, "Fo
 
 
 It is some oF the cahanges made, to get more feeling for this kind of staf :D
+
+
+
+A supply this document with another change, to see what happens :D
